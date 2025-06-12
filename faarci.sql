@@ -1,6 +1,6 @@
 -- Create Database
-CREATE DATABASE IF NOT EXISTS faarci;
-USE faarci;
+CREATE DATABASE IF NOT EXISTS mallone1_trx;
+USE mallone1_trx;
 
 -- Create Users Table
 CREATE TABLE IF NOT EXISTS users (
